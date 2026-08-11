@@ -2,7 +2,7 @@
 
 An agentic capture assistant demo. Built as an application artifact for Govly (govly.com, YC S21). Not affiliated with Govly.
 
-Live: [placeholder — deploy to Vercel]
+Live: [govly-pipeline.vercel.app](https://govly-pipeline.vercel.app)
 
 ## What it is
 
